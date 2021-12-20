@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "rating": 5,
+      "text": "This is the first rating"
+    },
+    {
+      "id": 2,
+      "rating": 4,
+      "text": "This is the second rating"
+    },
+    {
+      "text": "This is the third rating3rd",
+      "rating": 3,
+      "id": 3
+    },
+    {
+      "text": "This is the third rating3rd",
+      "rating": 3,
+      "id": 4
+    }
+  ]
+}
